@@ -4,7 +4,7 @@ subtitle: "Biologia Ambientale"
 author:
     - name: Giuliano Colosimo
       orcid: 0000-0002-0485-9758
-date: "2025-11-01"
+date: "2025-11-05"
 date-modified: last-modified
 bibliography: ./comprehensive_database.bib
 csl: ./apa_5th_edition.csl
