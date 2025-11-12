@@ -38,6 +38,9 @@ website:
           - href: ./classes/Animal tracking 25-26 - Class 1 - Introduction to movement.pdf
             text: "Class 1 - Introduction to movement"
             icon: file-pdf
+          - href: ./classes/Animal tracking 25-26 - Class 2 - Spatial data.pdf
+            text: "Class 2 - Spatial data"
+            icon: file-pdf
 
 
 
