@@ -14,7 +14,7 @@ citecolor: "red"
 
 # Introduction
 
-Welcome to class! These web-pages contain all the information you need to accomplish your class work for  **Animal-Tracking nella Biologia della Conservazione** (2023-2024).
+Welcome to class! These web-pages contain all the information you need to accomplish your class work for  **Animal-Tracking nella Biologia della Conservazione** (2025-2026).
 
 # General information
 
