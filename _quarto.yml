@@ -53,9 +53,9 @@ website:
           - href: ./classes/Animal tracking 25-26 - Class 6 - Properties of movement - Exercise.pdf
             text: "Class 6 - Properties of movement - Exercise"
             icon: file-pdf
-#          - href: ./classes/Animal tracking 25-26 - Class 4 - Home range.pdf
-#            text: "Class 7 - Remote sensing"
-#            icon: file-pdf
+          - href: ./classes/Animal tracking 25-26 - Class 7 - Introduction to remote sensing.pdf
+            text: "Class 7 - Introduction to remote sensing"
+            icon: file-pdf
 #          - href: ./classes/Animal tracking 25-26 - Class 4 - Home range.pdf
 #            text: "Class 8 - Resource selection"
 #            icon: file-pdf
